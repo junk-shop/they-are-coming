@@ -4,7 +4,7 @@ Welcome to the repo that houses all the information regarding the "THEY'RE COMIN
 
 ## WHAT IS THIS?
 
-Frankly, we don't quite know yet! Currently there is a [Discord Server](https://discord.gg/s3SABBqZ) and a [Dedicated Subreddit](https://www.reddit.com/r/TheyreComing/) to facilitate discussion.
+Frankly, we don't quite know yet! Currently there is a [Discord Server](https://discord.gg/MBXNVKRYNJ) and a [Dedicated Subreddit](https://www.reddit.com/r/TheyreComing/) to facilitate discussion.
 
 Head to the [wiki](https://github.com/junk-shop/they-are-coming/wiki) for all the information that has been collected so far.
 
