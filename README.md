@@ -18,8 +18,8 @@ This seems to be some sort of [ARG](https://en.wikipedia.org/wiki/Alternate_real
 
 ## [CARDS](https://github.com/junk-shop/they-are-coming/wiki/cards) 
 
-| First Card  | Second Card | Third Card  | Fourth Card | Fifth Card  | Sixth Card |
-| ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
+| ["cone-question"](https://github.com/junk-shop/they-are-coming/wiki/cone-question) | ["grid-hexagon"](https://github.com/junk-shop/they-are-coming/wiki/grid-hexagon) | ["overlap-ovals"](https://github.com/junk-shop/they-are-coming/wiki/overlap-ovals) | ["six-orbs"](https://github.com/junk-shop/they-are-coming/wiki/six-orbs) | ["star-circles"](https://github.com/junk-shop/they-are-coming/wiki/star-circles) | ["two-orbs"](https://github.com/junk-shop/they-are-coming/wiki/two-orbs) |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/cone-question.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/grid-hexagon.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/overlap-ovals.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/six-orbs.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/star-circles.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/two-orbs.jpg" width="100" height="150"/> |
 
 ## [POSTERS](https://github.com/junk-shop/they-are-coming/wiki/posters)
