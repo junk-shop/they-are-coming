@@ -6,13 +6,15 @@ Welcome to the repo that houses all the information regarding the "THEY'RE COMIN
 
 Frankly, we don't quite know yet! Currently there is a [Discord Server](https://discord.gg/s3SABBqZ) and a [Dedicated Subreddit](https://www.reddit.com/r/TheyreComing/) to facilitate discussion.
 
+Head to the [wiki](https://github.com/junk-shop/they-are-coming/wiki) for all the information that has been collected so far.
+
 ## QUICK INFO
 
-During the weekend of May 22nd, 2021, several people around the world received ominous postcards in the mail. Most people got just one, while reports indicate up to four cards at one household. In addition to the cards, there are two poster designs that have been seen in various locations around the world.
+During the weekend of May 22nd, 2021, several people around the world received ominous postcards in the mail. Most people got just one, while reports indicate up to four cards at one household. In addition to the cards, there are four poster designs (two sets of two standard-size posters) that have been seen in various locations around the world.
 
-There are six unique card designs in circulation, each including a large double-ended arrow with a number running vertically along side it. This number differs between the US and UK, and can be called to play a prerecorded sound before automatically ending the call.
+The only connections between recipients seem to be video-game related, but no further specifics have been found thus far.
 
-
+This seems to be some sort of [ARG](https://en.wikipedia.org/wiki/Alternate_reality_game), but as of yet we do not know what it is for.
 
 ## [CARDS](https://github.com/junk-shop/they-are-coming/wiki/cards) 
 | First Card  | Second Card | Third Card  | Fourth Card | Fifth Card  | Sixth Card |
