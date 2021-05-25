@@ -1,5 +1,14 @@
 # "THEY'RE COMING"
-a repo holding all the info for the "THEY'RE COMING" ARG
+
+Welcome to the repo that houses all the information regarding the "THEY'RE COMING" ARG.
+
+## WHAT IS THIS?
+
+Frankly, we don't quite know yet! Currently there is a Discord Server (add link) and a Dedicated Subreddit (add link) to facilitate discussion.
+
+## QUICK INFO
+
+During the weekend of May 22nd, 2021, several people around the US (and london?) found 
 
 ## CARDS 
 | First Card  | Second Card | Third Card  | Fourth Card | Fifth Card  | Sixth Card |
