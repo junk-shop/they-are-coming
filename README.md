@@ -17,11 +17,12 @@ The only connections between recipients seem to be video-game related, but no fu
 This seems to be some sort of [ARG](https://en.wikipedia.org/wiki/Alternate_reality_game), but as of yet we do not know what it is for.
 
 ## [CARDS](https://github.com/junk-shop/they-are-coming/wiki/cards) 
+
 | First Card  | Second Card | Third Card  | Fourth Card | Fifth Card  | Sixth Card |
 | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
 | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/cone-question.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/grid-hexagon.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/overlap-ovals.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/six-orbs.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/star-circles.jpg" width="100" height="150"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/postcards/two-orbs.jpg" width="100" height="150"/> |
 
-## POSTERS
+## [POSTERS](https://github.com/junk-shop/they-are-coming/wiki/posters)
 
 | D-Posters | J-Posters |
 | -------- | -------- |
