@@ -4,11 +4,11 @@ Welcome to the repo that houses all the information regarding the "THEY'RE COMIN
 
 ## WHAT IS THIS?
 
-Frankly, we don't quite know yet! Currently there is a Discord Server (add link) and a Dedicated Subreddit (add link) to facilitate discussion.
+Frankly, we don't quite know yet! Currently there is a [Discord Server](https://discord.gg/s3SABBqZ) and a [Dedicated Subreddit](https://www.reddit.com/r/TheyreComing/) to facilitate discussion.
 
 ## QUICK INFO
 
-During the weekend of May 22nd, 2021, several people around the US (and london?) found 
+During the weekend of May 22nd, 2021, several people around the world found 
 
 ## CARDS 
 | First Card  | Second Card | Third Card  | Fourth Card | Fifth Card  | Sixth Card |
