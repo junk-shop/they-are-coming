@@ -24,6 +24,6 @@ This seems to be some sort of [ARG](https://en.wikipedia.org/wiki/Alternate_real
 
 ## [POSTERS](https://github.com/junk-shop/they-are-coming/wiki/posters)
 
-| D-Posters | J-Posters |
+| [D-Posters](https://github.com/junk-shop/they-are-coming/wiki/d-posters) | [J-Posters](https://github.com/junk-shop/they-are-coming/wiki/j-posters) |
 | -------- | -------- |
 | <img src="https://github.com/junk-shop/they-are-coming/blob/main/posters/d-posters.jpg" width="350" height="263"/> | <img src="https://github.com/junk-shop/they-are-coming/blob/main/posters/j-posters.jpg" width="350" height="263"/> |
