@@ -1,9 +1,15 @@
 # "THEY'RE COMING"
 
-[![Discord Server](https://img.shields.io/discord/846443824054403083.svg?color=7289da&label=theyrecoming&logo=discord&style=flat-square)](https://discord.gg/MBXNVKRYNJ)
-
-[![Subreddit](https://img.shields.io/reddit/subreddit-subscribers/theyrecoming?style=flat-square)](https://www.reddit.com/r/TheyreComing/)
-
+<p align="center">
+  <a href="https://discord.gg/MBXNVKRYNJ">
+        <img src="https://img.shields.io/discord/846443824054403083.svg?color=7289da&label=theyrecoming&logo=discord&style=flat-square"
+            alt="join the Discord"></a>
+  
+  <a href="https://www.reddit.com/r/TheyreComing/">
+        <img src="https://img.shields.io/reddit/subreddit-subscribers/theyrecoming?style=flat-square"
+            alt="follow the Subreddit"></a>
+</p>
+  
 Welcome to the repo that houses all the information regarding the "THEY'RE COMING" ARG.
 
 ## WHAT IS THIS?
