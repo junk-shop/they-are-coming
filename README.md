@@ -2,6 +2,7 @@
 
 [![Discord Server](https://img.shields.io/discord/846443824054403083.svg?color=7289da&label=theyrecoming&logo=discord&style=flat-square)](https://discord.gg/MBXNVKRYNJ)
 
+[![Subreddit](https://img.shields.io/reddit/subreddit-subscribers/theyrecoming?style=social)](https://www.reddit.com/r/TheyreComing/)
 
 Welcome to the repo that houses all the information regarding the "THEY'RE COMING" ARG.
 
